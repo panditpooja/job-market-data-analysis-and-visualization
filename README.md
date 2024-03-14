@@ -22,4 +22,4 @@ A professional report detailing the data collection method, market data visualiz
 
 ### Conclusion:
 
-This project aims to provide valuable insights into the job market landscape for data science and machine learning roles, facilitating informed career decisions and skill development strategies.
+This project aims to provide valuable insights into the job market landscape for data science and machine learning roles, facilitating informed career decisions and skill development strategies. In broader sense, this project aims to responsibly gather information from websites using web scraping techniques and then analyze it using exploratory data analysis and visualization techniques. By doing so, one can gain the ability to uncover meaningful patterns and insights that may be hidden within the data. This process emphasizes ethical data extraction and a thorough exploration of the gathered information.

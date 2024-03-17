@@ -7,7 +7,7 @@ The objective of this project is to conduct an in-depth analysis of the job mark
 
 ### Project Description:
 
-In this project, I will collect and utilize job market data from Naukri.com to explore data-related positions or machine learning-related positions within the chosen region. Performed web scraping on job portal “Naukri.com” using Python, Beautiful Soup and Selenium for data collection and analysis for job postings for “ML Engineer” in India.
+In this project, I collect and utilize job market data from Naukri.com to explore data-related positions or machine learning-related positions within the chosen region. Performed web scraping on job portal “Naukri.com” using Python, Beautiful Soup and Selenium for data collection and analysis for job postings for “ML Engineer” in India.
 
 ### Objectives:
 
